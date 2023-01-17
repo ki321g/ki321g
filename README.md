@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi! I'm Kieron 
 
 <div>  
   <img width="245px" align="right" src="https://github.com/ki321g/ki321g/blob/main/imgs/me.jpg" />
