@@ -1,8 +1,6 @@
 ## 👋 Hi! I'm Kieron 
-</br>
-</br>
 <div>  
-  <img width="245px" align="right" src="https://github.com/ki321g/ki321g/blob/main/imgs/me.jpg" />
+  <img width="200px" align="right" src="https://github.com/ki321g/ki321g/blob/main/imgs/me.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul style="list-style: none;">
     <li>🧐 I am Studying for a Higher Diploma in Computer Science in SETU.</li>
@@ -12,5 +10,4 @@
     <li>🎉 Fun Fact: I love <B>YellowStone</B>.</li>
   </ul>
 </div>
-</br>
-</br>
+
