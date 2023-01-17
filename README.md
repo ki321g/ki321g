@@ -7,9 +7,7 @@
     <li>🧐 Studying for a Higher Diploma in Computer Science in SETU.</li>
     <li>👨‍💻 Most of my repositories are available on <a href="https://github.com/ki321g?tab=repositories">my repositories portfolio</a>.</li>
     <li>📝 Here is how to find me on my <a href="https://www.linkedin.com/in/kierongarvey/">LinkedIn</a>.</li>
-    <li>💬 Ping me about <strong>Backend, CI/CD, Kubernetes, and Cloud stuff</strong>.</li>
-    <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li>
-    <li>🎉 Fun Fact: I hate tomatoes.</li>
+    <li>🎉 Fun Fact: I love The YellowStone .</li>
   </ul>
 </div>
 </br>
