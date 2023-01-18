@@ -7,7 +7,7 @@
     <li>🧐 I am Studying for a Higher Diploma in Computer Science in SETU.</li>
     <li>👨‍💻 I plan to put all my college work in <a href="https://github.com/ki321g?tab=repositories">my repositories portfolio</a>.</li>
     <li>📝 Here is how to find me on my <a href="https://www.linkedin.com/in/kierongarvey/">LinkedIn</a>.</li>
-    <li>🎉 Fun Fact: One of my Dogs (<B>Marvel</B>) is driving me <B>NUTS</B> with his Sqeeky ball.</li>
+    <li>🎉 Fun Fact: One of my Dogs (<B>Marvel</B>) is driving me <B>NUTS</B> with his squeaky ball.</li>
   </ul>
 </div>
 
