@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Kieron 
 <div>  
-  <img width="200px" align="right" src="https://github.com/ki321g/ki321g/blob/main/imgs/me.jpg" />
+  <img width="200px" align="right" src="https://github.com/ki321g/ki321g/blob/main/imgs/me.jpg"/>
   <h2>⚡️ A Few Quick Facts</h2>
   <ul style="list-style: none;">
     <li>💼 I currently work as a Software Developer with Bausch & Lomb Ireland.</li>
